@@ -4,7 +4,8 @@ background-color: brown; color:yellow;}
 p{font-family:'Times New Roman', Times, serif ;}
     .Ligma{color:green; background-color: black;
     border: solid 5px gold;
-border-radius:5px}
+border-radius:5px;
+text-align: center;}
    button{background-color: rgb(138, 185, 240); color:whitesmoke}
    .sentence{font-size: 30px;}
    .picture{border-radius: 10px;
@@ -13,8 +14,11 @@ height: 250px;
 width: 500px;}
 #p2{background-color: black;
 background-size: 50px;
-border: solid 2px black}
-.question{font-style: italic;}
+border: solid 2px black;
+margin-right:50px;
+margin-left: 50px;
+text-align: center;}
 .quizbut{height: 100px; width: 40px;}
-.quizbut{gap:100px;}
+.text-center{text-align: center;}
+.quiz{text-align: center;}
 
